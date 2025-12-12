@@ -1,6 +1,6 @@
 # Redis Proxy
 
-一个用使用Vibe coding，Rust编写的高性能 Redis 代理服务器，支持读写分离、连接池管理和命令执行统计。
+一个用Vibe coding，Rust编写的高性能 Redis 代理服务器，支持读写分离、连接池管理和命令执行统计。
 
 ## 功能特性
 
